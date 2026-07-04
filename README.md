@@ -205,7 +205,7 @@ Add the following screenshots:
 
 ## 👨‍💻 Author
 
-**Shaurya Pandey**
+**Ayush Pandey**
 
 AI/ML Summer Training Project
 
