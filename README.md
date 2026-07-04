@@ -11,7 +11,7 @@ This project was developed as part of an **AI/ML Summer Training Capstone Projec
 ## 🚀 Live Demo
 
 **Streamlit Application:**
-https://aiml-project1.streamlit.app/
+[https://aiml-project1.streamlit.app/](https://studentperformacepreditionsystem-ek6lrb5mwdpsas2dcwzids.streamlit.app/)
 
 ---
 
